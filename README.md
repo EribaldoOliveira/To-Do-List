@@ -1,6 +1,7 @@
 # To-Do-List com HTML, CSS e Javascript
 
-![image](https://user-images.githubusercontent.com/114995774/230894348-88d9565c-3f48-4c87-b4ef-7bb1cdcd042d.png)
+![image](https://user-images.githubusercontent.com/114995774/232355195-4d1f8c12-4569-44d8-83e7-2218c919ac4a.png)
+
 
 <h1> Visão Geral</h1>
 
