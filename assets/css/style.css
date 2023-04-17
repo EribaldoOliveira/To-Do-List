@@ -24,6 +24,12 @@ h1 {
     text-align: center;
     color: var(--color-green2);
 }
+
+h2 {
+    text-align: center;
+    color: yellow;
+}
+
 h3 {
     text-align: center;
     color: red;
